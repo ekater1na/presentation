@@ -1,5 +1,5 @@
 Hi! 
-Today i'll tell uou about blockchain. Let's start!
+Today i'll tell you about blockchain. Let's start!
 
 ### Blockchain 
 Every day we all interact with one another, mostly on the internet. We chat, we buy things, we use services like banks. But how do we know who to trust online, especially if we have never met them but want to deal with them directly? 
@@ -37,10 +37,10 @@ One of the most interesting and misunderstood concepts in blockchain technology 
 A person’s identity is hidden via complex cryptography and represented only by their public address. So, if you were to look up a person’s transaction history, you will not see “Katia sent 1 ETH” instead you will see “0xf1bhsflkbzzz9vpfyemvwt2tbyct7nzj sent 1 ETH”.
 The following snapshot of Ethereum transactions will show you what I mean:
 
-Immutability
+### Immutability
 Immutability, in the context of the blockchain, means that once something has been entered into the blockchain, it cannot be tampered with.
 
-Cryptocurrency
+### Cryptocurrency
 You may know nothing about the blockchain, but you definitely heard about cryptocurrency.
 What cryptocurrency do you know?
 A cryptocurrency is a digital or virtual currency that uses cryptography for security. A cryptocurrency is difficult to counterfeit because of this security feature. 
